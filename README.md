@@ -3,7 +3,10 @@ Panzlian is a constructed language alien to most human scripts, non linear (2D s
 This repository contains a formal guide on how to understand this script, both the formal and colloquial Panzlian.
 Status: early specification, unstable.
 ## Structure
-
+- Grammar
+- Guide
+- Examples
+- Diagrams
 ## Design Principles
 - Non-linear redability
 - Strong and weak internal links
